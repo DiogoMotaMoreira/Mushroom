@@ -1,4 +1,7 @@
 # Mushroom
+
+https://diogomotamoreira.itch.io/mushroom
+
 Mushroom: Less is More!
 
 Created for a Game Jam with the theme "One-Button," this fast-paced game thrusts you into a world overrun by hostile mushrooms. Armed with a sword and a pistol, you’ll need to jump, attack, and survive the mushroom hordes using only a single button!
