@@ -1,27 +1,65 @@
-# Mushroom
+# 🍄 Mushroom: Less is More!
 
-https://diogomotamoreira.itch.io/mushroom
+🎮 [Jogar agora no Itch.io](https://diogomotamoreira.itch.io/mushroom)
 
+> 🕹️ Criado para uma **Game Jam** com o tema **"One-Button"**, *Mushroom* é um jogo frenético de ação onde cada clique conta.
 
-Mushroom: Less is More!
+---
 
+## 🧠 Conceito
 
-Created for a Game Jam with the theme "One-Button," this fast-paced game thrusts you into a world overrun by hostile mushrooms. Armed with a sword and a pistol, you’ll need to jump, attack, and survive the mushroom hordes using only a single button!
+**Menos é mais.**  
+Neste mundo dominado por cogumelos hostis, estás armado com apenas **uma espada, uma pistola... e um botão!**  
+Salta, ataca e sobrevive — tudo com **um único botão**.
 
+---
 
-Types of Mushrooms
+## 🍄 Tipos de Cogumelos
 
-1- Red Mushroom: Defeating it rewards you with 1 coin.
+| Cogumelo         | Efeito                                                              |
+|------------------|---------------------------------------------------------------------|
+| 🔴 **Vermelho**   | Derrotá-lo dá **1 moeda**                                           |
+| 🔵 **Azul**       | Dá **1 moeda** e **abranda o tempo por 2 segundos** ⏳             |
+| 🟡 **Amarelo**    | O mais valioso! Dá **10 moedas** 💰                                |
 
-2- Blue Mushroom: Grants 1 coin and slows down time for 2 seconds, giving you a tactical advantage.
+---
 
-3- Yellow Mushroom: The most rewarding of all, defeating it grants 10 coins!
+## 🐝 Aliadas Extra: As Abelhas!
 
+Não estás sozinho!  
+Podes **invocar abelhas** para te ajudarem a derrotar os cogumelos.  
+Estas pequenas aliadas são cruciais nos momentos mais caóticos e podem virar a maré da batalha a teu favor! 🐝⚔️
 
-Extra Help: Ally Bees
+---
 
-The protagonist isn’t alone! Bees can be summoned to help defeat the mushrooms. These tiny allies can be a game-changer in the most chaotic battles, turning the tide in your favor.
+## 🔥 Características
 
+- ✅ Mecânica de **um só botão**
+- 🧠 **Ação rápida e estratégica**
+- 💣 Encontros caóticos com hordas crescentes de inimigos
+- 💎 Coleciona moedas para provar o teu valor
+- 🐝 Sistema de apoio com **abelhas invocáveis**
 
-Can you survive and amass riches while defeating the fungal threat? Get ready for frantic action in Mushroom!
+---
 
+## ❓ Consegues sobreviver?
+
+Domina o botão. Derrota os cogumelos.  
+E amassa moedas nesta guerra fúngica sem tréguas!
+
+👉 [Joga agora no Itch.io](https://diogomotamoreira.itch.io/mushroom)
+
+---
+
+## 🛠️ Feito Com
+
+- 💻 **Game Engine**: Godot
+- 🎨 Arte: Original e estilizada para gameplay rápido
+- 🕹️ Criado durante uma Game Jam com o tema **"One-Button"**
+
+---
+
+## 🙌 Agradecimentos
+
+A todos os que participaram e testaram durante a Game Jam – obrigado!  
+Feedback e sugestões são bem-vindos! 🎮💬
